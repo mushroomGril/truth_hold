@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/record/main"  ,
+    "pages/index/main",
+    "pages/me/main" ,    
+    "pages/opinion/main",
+    "pages/instruction/main"
+     
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ea5149",
+    "navigationBarTitleText": "自律律",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor":"ea5149",
+    "list": [
+      {    
+        "pagePath": "pages/index/main",
+        "text": "首页",
+        "iconPath":"static/images/danhuang.png",
+        "selectedIconPath":"static/images/danhuang-active.png"
+      },
+      {    
+        "pagePath": "pages/record/main",
+        "text": "记录",
+        "iconPath":"static/images/huasheng.png",
+        "selectedIconPath":"static/images/huasheng-active.png"
+      },
+      {    
+        "pagePath": "pages/me/main",
+        "text": "我的",
+        "iconPath":"static/images/binggan.png",
+        "selectedIconPath":"static/images/binggan-active.png"
+      }
+    ]
+  }
+}
