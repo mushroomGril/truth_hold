@@ -8,11 +8,11 @@ const CONF = {
 
     //如下内容方访问如上注释的网址，，如下开始
 
-    qcloudAppId: '1304344762',
+    qcloudAppId: '',
 
-    qcloudSecretId: 'AKIDb8Xr4Rbv0HPTNCIskYP9jBYtXNuHfWQC',
+    qcloudSecretId: '',
 
-    qcloudSecretKey: 't1262KbiKzrcGl6FEB0hBgok00mLmx2u',
+    qcloudSecretKey: '',
 
     //，，如下结束
 
