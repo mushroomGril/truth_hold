@@ -8,7 +8,7 @@ const CONF = {
 
     //如下内容方访问如上注释的网址，，如下开始
 
-    qcloudAppId: '',
+    qcloudAppId: '',//填自己腾讯云的id
 
     qcloudSecretId: '',
 
